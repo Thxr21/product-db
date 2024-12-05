@@ -1,0 +1,128 @@
+{
+  "MAKEUPproducts": [
+    {
+      "name": "Blush",
+      "stock": 30
+    },
+    {
+      "name": "Brows",
+      "stock": 20
+    },
+    {
+      "name": "Fondation",
+      "stock": 25
+    },
+    {
+      "name": "Highlighter",
+      "stock": 15
+    },
+    {
+      "name": "Lip",
+      "stock": 40
+    },
+    {
+      "name": "Primer",
+      "stock": 10
+    },
+    {
+      "name": "Palette",
+      "stock": 50
+    },
+    {
+      "name": "Advent Calendar",
+      "stock": 5
+    },
+    {
+      "name": "Kit",
+      "stock": 8
+    },
+    {
+      "name": "Blush Powder",
+      "stock": 22
+    }
+  ],
+  "SKINCAREproducts": [
+    {
+      "name": "Korean Serum",
+      "stock": 35
+    },
+    {
+      "name": "Anti-Aging Cream",
+      "stock": 12
+    },
+    {
+      "name": "Simple Hydration",
+      "stock": 40
+    },
+    {
+      "name": "Garnier Vitamin C",
+      "stock": 18
+    },
+    {
+      "name": "SkinCare 1",
+      "stock": 60
+    },
+    {
+      "name": "Rhode Peptide Cream",
+      "stock": 25
+    },
+    {
+      "name": "Skincare Essentials",
+      "stock": 30
+    },
+    {
+      "name": "Advanced Skincare",
+      "stock": 10
+    },
+    {
+      "name": "Snail Repair Gel",
+      "stock": 15
+    },
+    {
+      "name": "SPF 50 Sunscreen",
+      "stock": 50
+    }
+  ],
+  "PERFUMEproducts": [
+    {
+      "name": "Bombshell",
+      "stock": 20
+    },
+    {
+      "name": "Dior Sauvage",
+      "stock": 10
+    },
+    {
+      "name": "Gucci Bloom",
+      "stock": 25
+    },
+    {
+      "name": "Idôle",
+      "stock": 30
+    },
+    {
+      "name": "Kayali Vanilla",
+      "stock": 15
+    },
+    {
+      "name": "Lost Cherry",
+      "stock": 12
+    },
+    {
+      "name": "Miss Dior",
+      "stock": 8
+    },
+    {
+      "name": "My Way",
+      "stock": 18
+    },
+    {
+      "name": "Red Baccara",
+      "stock": 5
+    },
+    {
+      "name": "Sunkissed",
+      "stock": 35
+    }
+  ]
+}
